@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "necommerce",
+  "private_key_id": "65e9b7a98605eee0322f233b783d17ed0893c0fa",
+  "private_key": "MIIEpQIBAAKCAQEA5UypMmzmZOv8NZLE/HXLVBkN1fCvyASkhURThMoUQtXtQZMh\nnFLVMLEEX4xgTxqaU/BRU3cXy7OU70sRGouoEi9XKbS8vyQbYhLxNFy0uFBJeluj\ntdecWZqn+uRJWS7rhcBk6K/j0BiSazmpgygVLIHv3UhhrP9KICgRNidhbFtBMEMF\ns0CrBQDF5RjEh4REMxidZAGhks28a+QxqfN0nF46G69nV5ltFxGnc1uckKeI2/Dx\n3g7iZ2WapBnrr0mu9S9vdAkRL3QXQ2Ji+4yL7qLDyu6Ist5LQ9pEB/n+WY/blBiE\nWJGZFg4PwfOqseog5T/h5KMoZMTqx3oCdEP7uQIDAQABAoIBAQDHuk/CoYLJs5g7\nHf3BneUe+rfHe1/RzOF1R3+sMc0WLnr73GmxXaFfSUFy7LZTEOwOY0yjdB/hCiqX\niP577dvXAy9cH5csswm7Ep7RKlMsHJr0HnBqC0Wf8wuQiVqueSUjmuMKn3LDJzQa\ne96AZOCUpRXG3K5f3vq1KdFcJ08/7lJb+15bBmkxG1s6Zxy7NHfwqbp8cC1C1aUd\nzUMgYbhqSTZM/T0xsZ/rJymcdtf8XkJmYqeMLeVxBHAGLZcEx1RHhkxpPXexquy5\n3ocP0ZoQWRYo5pLolHBNbLkKsSXXD9K9BUX137r4zhRDLbcy5ET3sUYz6SoZdYQM\nTMBeK8UBAoGBAPxOOEAPqcW0PHy98o1w8WNgLgYwjIa361VLI66EW1yOl2qH2c1H\nPGUvCcfMGJj2Oj9I6abNzPbscZgBtSPasMGwa3VL8lRnFz6HKnREkMaupxlBE4g/\nIHgdTkPsvR/P1IQ/0tpEj0rhbOIXrrsO5paBIu1HsljEU75wPdSyxA9hAoGBAOio\nM6I2wCzL99M4NPpKMumyvcRYm+AG2esWiNZIaavAi6cToeTstk1IgHfuniR0vgF0\nnlry0IMSVFHx9vCaLPqsbpwYbemnhQWYUrXBTKd6L++Jpn9kDZLscMk/6DG9HyU9\n90nDVWC4SDNHUo3O63x0CoZHcPYTCrCxnzQPvINZAoGBAM3RqUVpAZ+MFkPUWAdV\n+TSOAz19YUWMx2c+8o6s3jK1B4QZ6mzxDa2lH59jOTWet4lkm2Y9QFS2MTxFOFVV\nUxfOKPr4x2he6LFTZiiOvmO1mg6Z7asZhA04Kt5yQx2uVrjDr+fqQdJd7orJsvpZ\nf3WLRsi10iFjlsUlnuriIdpBAoGAZoVQE2gK8PKEZ0f6WFx/6OlBpBbjwSljt6s7\naymHnw5+u4X0Lht9DbsoGTFF8Iyc+ak46pza8xcNnvp/tXBK5786EoDVVkPiYx/H\nOp5ON/Ko0uYWP0aIkLitzpDhsaFD6zZOFOwFYFR0RFxmbWTD8hh0Vs1+YoDrkgcD\nP367tCkCgYEAgvB8vbtjtbyQhq1Gf6VlMdusz3wKQI7H7BhJ5IUtDseo4uRZ6EvW\nNMvbg5y3RI/vy0d7PWmHKXZ+TJTluU9RHzqz+Z/nRplMi/manJfoZn8jEVBshSGQ\n+5bqCsg+6yu3cntS7VsuIYbySrjYsOMGLZ1S2URNdyo0rWypfeNjXxY=",
+  "client_email": "firebase-adminsdk@necommerce.iam.gserviceaccount.com",
+  "client_id": "925064281050233487551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-necommerce.iam.gserviceaccount.com"
+}
